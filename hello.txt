@@ -1,2 +1,6 @@
 hello git
+<<<<<<< HEAD
 git mine
+=======
+teammate
+>>>>>>> 5da2a2076c5031202f1a8488df7fa4a3ed755846
